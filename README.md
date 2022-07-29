@@ -1,8 +1,8 @@
 # humdrum_index
 
-Deployed URL: 
+Deployed URL: https://idakukimiya.github.io/humdrum_index/
 
-GitHub URL: 
+GitHub URL: https://github.com/idakukimiya/humdrum_index
 
 ## Description
 
@@ -19,3 +19,4 @@ The motivation for this project is to jQuery to create a planner that present cu
 
 ### Photos of Mockup
 
+![alt text](assets/image/Picture1.png)
